@@ -1,9 +1,11 @@
 # main links
 main:
+  - title: "Posts"
+    url: /posts/
   - title: "About"
-    url: https://GovInfoBC.github.io/day/about/   
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
+ # - title: "Test"
+ #   url: /test/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
