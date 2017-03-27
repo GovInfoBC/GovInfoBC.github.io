@@ -1,11 +1,14 @@
 ---
-layout: splash
+title: "Welcome to Gov Info Day, 2017!"
 permalink: /
-header:
-  overlay_image: /images/govinfo-logo-drafts3.png
-  cta_label: "<i class='fa fa-download'></i> Register now"
-  cta_url: "/about/"
-  caption:
-excerpt: 'Government Information BC Day is conference held once a year. Register today to secure a spot at our upcoming day.'
-
 ---
+
+![image-center]({{ site.url }}{{ site.baseurl }}/images/govinfo-logo-drafts3.png){: .align-center}
+
+
+Time | Session
+--- | ---
+8:45 - 9:00 | Coffee, meet & greet
+9:00 - 9:05 | Introductions and logistics
+
+This agenda looks great!
