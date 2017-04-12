@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Posts"
-    url: /posts/
+ # - title: "Posts"
+ #   url: /posts/
+  - title: "Agenda"
+    url: /agenda/
   - title: "About"
     url: /about/
  # - title: "Test"
