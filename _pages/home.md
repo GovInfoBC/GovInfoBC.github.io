@@ -3,6 +3,8 @@ layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/legislature.jpg
+  cta_label: "<i class='fa fa-download'></i> View the agenda"
+  cta_url: "/agenda/"
 excerpt: 'GovInfoBC is about government information in BC.'
 
 ---
