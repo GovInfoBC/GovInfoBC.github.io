@@ -1,14 +1,15 @@
 ---
-title: "Welcome to Gov Info Day, 2017!"
+layout: splash
 permalink: /
+header:
+  overlay_image: /assets/images/legislature.jpg
+  <!--- cta_label: "<i class='fa fa-download'></i> Feel the magic" --->
+  <!--- cta_url: "/about/" --->
+  caption:
+excerpt: 'GovInfoBC is about government information in BC.'
+
 ---
+GovInfoBC is sponsored by SFU.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images/govinfo-logo-drafts3.png){: .align-center}
+Image: [credit](https://en.wikipedia.org/wiki/File:British_Columbia_Parliament_Buildings_-_Pano_-_HDR.jpg)
 
-
-Time | Session
---- | ---
-8:45 - 9:00 | Coffee, meet & greet
-9:00 - 9:05 | Introductions and logistics
-
-This agenda looks great!
