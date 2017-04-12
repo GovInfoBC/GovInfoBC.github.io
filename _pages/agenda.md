@@ -1,7 +1,7 @@
 ---
 permalink: /agenda/
 excerpt: "2017 activities"
-title: "Agenda"
+title: ""
 layouts: single
 modified: 2017-04-12
 ---
